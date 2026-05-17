@@ -5,6 +5,7 @@ A web-based visualization project for traffic detection using YOLO (You Only Loo
 ## Overview
 
 This project demonstrates traffic detection and analysis using YOLO object detection, with interactive visualizations built using D3.js. The system processes video footage and displays real-time detection results alongside analytical charts.
+The project was forked from original YOLO detection and converted to fit for GT final project 2025 for Kiheon
 
 ## Project Structure
 
