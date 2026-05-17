@@ -1,6 +1,6 @@
 # Traffic Detection using YOLO
 
-A web-based visualization project for traffic detection using YOLO (You Only Look Once) object detection.
+A web-based visualization project for traffic detection using YOLO (You Only Look Once) object detection.  
 
 ## Overview
 
